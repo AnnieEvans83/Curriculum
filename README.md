@@ -60,15 +60,13 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
  - [Machine Learning & Autonomous Cars][special-topic-ML]
 
 **Programming:**
-
-
-Programming: Jupyter Notebooks, Calculations and Variables
+- [Jupyter Notebooks, Calculations and Variables][prog-jupyter]
 
 
 Lab: Intro to the car module
 15 mins
 
-Practice concepts (link TO DO)
+Practice concepts 
 
 
 
@@ -82,6 +80,7 @@ Practice concepts (link TO DO)
 [#1]: #1-unit-1
 
 [special-topic-ML]:https://drive.google.com/open?id=1dv5dTRQUxWvBD-vbRTdD1FmbqfHuqkGTwY-9hzGHrDA
+[prog-jupyter]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit1/Jupyter_Notebooks_Calculations_and_Variables.ipynb
 
 [#2]: #2-unit-2
 
