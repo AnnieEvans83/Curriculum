@@ -62,6 +62,9 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 **Programming:**
 - [Jupyter Notebooks, Calculations and Variables][prog-jupyter]
 
+**Lab**
+- [Intro to the car module][lab-car-module]
+
 
 
 
@@ -77,6 +80,7 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
 [special-topic-ML]:https://drive.google.com/open?id=1dv5dTRQUxWvBD-vbRTdD1FmbqfHuqkGTwY-9hzGHrDA
 [prog-jupyter]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit1/Jupyter_Notebooks_Calculations_and_Variables.ipynb
+[lab-car-module]:https://drive.google.com/open?id=1jS7-b0zcyFZByTdcnJP2beycW_AOlDTgiFmrWBKqPDw
 
 [#2]: #2-unit-2
 
