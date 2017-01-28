@@ -63,10 +63,6 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 - [Jupyter Notebooks, Calculations and Variables][prog-jupyter]
 
 
-Lab: Intro to the car module
-15 mins
-
-Practice concepts 
 
 
 
