@@ -51,11 +51,15 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
      * Lab: Intro to the car module
 
-1. [Unit 2][#2]
+2. [Unit 2][#2]
 
      * Programming: Strings, Lists and For Loops
 
      * Lab: Figure-8 challenge
+
+3. [Unit 3][#3]
+
+     * Topic: Car Physics
 
 
 
@@ -64,7 +68,7 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 ### 1. Unit 1
 -------------------------
 
-**Special Topic:**
+**Special Topic:**  
  - [Machine Learning & Autonomous Cars][special-topic-ML]
 
 **Programming:**
@@ -83,6 +87,20 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
 **Lab:**
 - [Figure-8 challenge][lab-figure-8]
+
+-------------------------------------------------------------------------------
+### 3. Unit 3
+-------------------------
+
+**Topic:**
+- [Car Physics][topic-car-physics]
+
+**Lab:**
+- [Speed & RPMs][lab-speed]
+- For this lab you will also need the [Lab handout][handout-physics].
+
+**Special Topic:**
+- [How we built the cars][special-topic-build-cars]
 
 
 
@@ -106,5 +124,11 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 [lab-figure-8]:https://drive.google.com/open?id=1VBmFTen9YykbPZvzGFDrobyQUYgJUD-vfLjo5Km7GOk
 
 [#3]: #3-unit-3
+[topic-car-physics]:https://drive.google.com/open?id=1_BmUTfSkTIUJaRebXm15ZjsNdtb7zlMog2wfY5YMv80
+[lab-speed]:https://drive.google.com/open?id=1mXEuWZ--9_65JIrJZO9-T5xZhdwmsibIbc1KeNa4V5c
+[handout-physics]:https://drive.google.com/open?id=1ekAVdxU986fJ_0yRqf2AlmhDI2v3ko8qI1G5mPMwTlw
+[special-topic-build-cars]:https://drive.google.com/open?id=1vCvx0-eyTp5oQa2yx7E7EkjFprZV6NzQ6RpSmohtYHA
+
+
 
 [#4]: #4-unit-4
