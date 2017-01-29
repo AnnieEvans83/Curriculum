@@ -43,35 +43,35 @@ Table of Contents
 
 At the end of this level the car should be able to avoid obstacles (and crashes)
 
-1. [Unit 1][#1]  
+[Unit 1][#1]  
 
-     * Special Topic: Machine Learning & Autonomous Cars  
+   * Special Topic: Machine Learning & Autonomous Cars  
 
-     * Programming: Jupyter Notebooks, Calculations and Variables
+   * Programming: Jupyter Notebooks, Calculations and Variables
 
-     * Lab: Intro to the car module
+   * Lab: Intro to the car module
 
-2. [Unit 2][#2]
+[Unit 2][#2]
 
-     * Programming: Strings, Lists and For Loops
+   * Programming: Strings, Lists and For Loops
 
-     * Lab: Figure-8 challenge
+   * Lab: Figure-8 challenge
 
-3. [Unit 3][#3]
+[Unit 3][#3]
 
-     * Topic: Car Physics
+   * Topic: Car Physics
 
-     * Lab: Speed & RPMs
+   * Lab: Speed & RPMs
 
-     * Special Topic: How we built the cars
+   * Special Topic: How we built the cars
 
-4. [Unit 4][#4]
+[Unit 4][#4]
 
-     * Programming: If-Else Statements, Booleans and Functions
+   * Programming: If-Else Statements, Booleans and Functions
 
-     * Topic: Sonar sensors
+   * Topic: Sonar sensors
 
-     * Lab: Using sonar sensors to avoid obstacles (and crashes)  
+   * Lab: Using sonar sensors to avoid obstacles (and crashes)  
 
 
 ### __Intermediate Level__
@@ -79,10 +79,17 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
 At the end of this level the car should be able to recognize pedestrians and self-drive in a track
 
+[Unit 5][#5]
 
+   * Special Topic: Public policy (How will autonomous driving change our daily lives?)
+
+   * Topic: Image Processing (Pixels and RBG values)
+
+   * Lab: Car behaves depending on traffic light  colors
 
 -------------------------------------------------------------------------------
-### 1. Unit 1
+### __Beginner Level__
+### Unit 1
 -------------------------
 
 **Special Topic:**  
@@ -96,7 +103,7 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
 
 -------------------------------------------------------------------------------
-### 2. Unit 2
+### Unit 2
 -------------------------
 
 **Programming:**
@@ -106,7 +113,7 @@ At the end of this level the car should be able to recognize pedestrians and sel
 - [Figure-8 challenge][lab-figure-8]
 
 -------------------------------------------------------------------------------
-### 3. Unit 3
+### Unit 3
 -------------------------
 
 **Topic:**
@@ -121,7 +128,7 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
 
 -------------------------------------------------------------------------------
-### 4. Unit 4
+### Unit 4
 -------------------------
 
 **Programming:**
@@ -135,6 +142,25 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
 **Lab:**
 - [Using sonar sensors to avoid obstacles (and crashes)][lab-sonar]
+
+
+-------------------------------------------------------------------------------
+### __Intermediate Level__
+### Unit 5
+-------------------------
+**Special Topic:**
+- [Public policy (How will autonomous driving change our daily lives?)][special-topic-public-policy]
+
+**Topic:**
+- [Image Processing (Pixels and RBG values)][topic-image-process]
+
+**Lab:**
+- [Car acts depending on traffic light colors][lab-traffic-lights]
+
+
+
+
+
 
 [-----------------------------LINKS-----------------------------]: #
 
@@ -158,11 +184,13 @@ At the end of this level the car should be able to recognize pedestrians and sel
 [handout-physics]:https://drive.google.com/open?id=1ekAVdxU986fJ_0yRqf2AlmhDI2v3ko8qI1G5mPMwTlw
 [special-topic-build-cars]:https://drive.google.com/open?id=1vCvx0-eyTp5oQa2yx7E7EkjFprZV6NzQ6RpSmohtYHA
 
-
-
 [#4]: #4-unit-4
-
 [prog-if-else]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/If-Else_Statements_Booleans_and_Functions.ipynb
 [function-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/Function_exercise_solution.py
 [topic-sonar]:https://drive.google.com/open?id=1uyJKhe9CgfpjLpQGA2EZujrwMQNsVryuMsh2GD6UBOM
 [lab-sonar]:https://drive.google.com/open?id=1HvHDdU4AfVteI0gUtIfeA4M-xpnN1oLx_zmFtxbWV3o
+
+[#5]: #5-unit-5
+[special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
+[topic-image-process]:https://drive.google.com/open?id=1b33_PcDyywF4rR78hla7sEypq1aaFeFvOS0P2PiIw2A
+[lab-traffic-lights]:https://drive.google.com/open?id=1XFm4_feQroB9_hjtfPBnkREEsW5F6dHig21HbWSUmSI
