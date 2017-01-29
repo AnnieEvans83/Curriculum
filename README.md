@@ -65,6 +65,14 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
      * Special Topic: How we built the cars
 
+4. [Unit 4][#4]
+
+     * Programming: If-Else Statements, Booleans and Functions
+
+     * Topic: Sonar sensors
+
+     * Lab: Using sonar sensors to avoid obstacles (and crashes)
+
 
 
 
@@ -107,9 +115,21 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 - [How we built the cars][special-topic-build-cars]
 
 
+-------------------------------------------------------------------------------
+### 4. Unit 4
+-------------------------
 
+**Programming:**
+- [If-Else Statements, Booleans and Functions][prog-if-else]
 
+- The solution for the exercise in this programming session can be found in
+ [function exercise solution][function-sol]
 
+**Topic:**
+- [Sonar Sensors][topic-sonar]
+
+**Lab:**
+- [Using sonar sensors to avoid obstacles (and crashes)][lab-sonar]
 
 [-----------------------------LINKS-----------------------------]: #
 
@@ -136,3 +156,8 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
 
 [#4]: #4-unit-4
+
+[prog-if-else]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/If-Else_Statements_Booleans_and_Functions.ipynb
+[function-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/Function_exercise_solution.py
+[topic-sonar]:https://drive.google.com/open?id=1uyJKhe9CgfpjLpQGA2EZujrwMQNsVryuMsh2GD6UBOM
+[lab-sonar]:https://drive.google.com/open?id=1HvHDdU4AfVteI0gUtIfeA4M-xpnN1oLx_zmFtxbWV3o
