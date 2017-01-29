@@ -169,12 +169,12 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
 [Curriculum Map]:https://drive.google.com/open?id=1Dc391Y7a1V8F2lJ_djFvBxEHz5SIBKBtCeY3Tbjs3uY
 
-[#1]: #1-unit-1
+[#1]: #unit-1
 [special-topic-ML]:https://drive.google.com/open?id=1dv5dTRQUxWvBD-vbRTdD1FmbqfHuqkGTwY-9hzGHrDA
 [prog-jupyter]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit1/Jupyter_Notebooks_Calculations_and_Variables.ipynb
 [lab-car-module]:https://drive.google.com/open?id=1jS7-b0zcyFZByTdcnJP2beycW_AOlDTgiFmrWBKqPDw
 
-[#2]: #2-unit-2
+[#2]: #unit-2
 [prog-lists]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit2/Strings_Lists_and_For_Loops.ipynb
 [lab-figure-8]:https://drive.google.com/open?id=1VBmFTen9YykbPZvzGFDrobyQUYgJUD-vfLjo5Km7GOk
 
