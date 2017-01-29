@@ -18,9 +18,14 @@ for data science and learning about how autonomous vehicles actually work.
 
 ### Curriculum
 
-The AutoAuto curriculum currently is designed for Workshops, Hackathons,
-Afterschool programs and Summer schools. In the near feature we will add
-an extend version of the curriculum for regular schools. We suggest at most
+We are currently building curriculum and a web plataform for it.
+The AutoAuto curriculum is currently designed for Workshops, Hackathons,
+Afterschool programs or Summer schools. In the near feature we will add
+an extend version of the curriculum for regular schools and a "do it all
+yourself" version for kids with an AutoAuto car at home. This is a
+learning experience to build Python, Machine Learning and Autonomous
+cars application skills. For the best use of it we recommend having
+our hand-held autonomous cars. In schools we suggest at most
 two students per AutoAuto car.
 
 ## Software Needed
@@ -94,6 +99,9 @@ At the end of this level the car should be able to recognize pedestrians and sel
    * Lab: Car recognizes pedestrians and stop signs
 
    * Programming: Scripts and Dictionaries
+
+
+More units coming up soon. Stay tuned!! :)
 
 -------------------------------------------------------------------------------
 ### __Beginner Level__
@@ -183,6 +191,15 @@ At the end of this level the car should be able to recognize pedestrians and sel
  [dictionary exercise solution][dictionary-sol]
 
 
+ -------------------------------------------------------------------------------
+
+
+ __AutoAuto Team__   
+
+ ![](/images/team.png)
+
+
+ __Contact__:`contact@autauto.ai`
 
 
 
@@ -222,5 +239,5 @@ At the end of this level the car should be able to recognize pedestrians and sel
 [#6]: #unit-6
 [topic-image-classification]:https://drive.google.com/open?id=1qf9XhxJ4Xro5oR6Mb963oWVdmhi1svFhZXNPWPdzeRs
 [lab-recognize-pedestrian]:https://drive.google.com/open?id=1kCy9Xv59cgr7BdSHEFdpo6zD_RTLmYMOcFc4ropaIF0
-[prog-scripts-dicts]:
-[dictionary-sol]:
+[prog-scripts-dicts]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit6/Scripts_Terminals_and_dictionaries.ipynb
+[dictionary-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit6/Dicionaries_exercise_solution.py
