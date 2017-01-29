@@ -178,19 +178,19 @@ At the end of this level the car should be able to recognize pedestrians and sel
 [prog-lists]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit2/Strings_Lists_and_For_Loops.ipynb
 [lab-figure-8]:https://drive.google.com/open?id=1VBmFTen9YykbPZvzGFDrobyQUYgJUD-vfLjo5Km7GOk
 
-[#3]: #3-unit-3
+[#3]: #unit-3
 [topic-car-physics]:https://drive.google.com/open?id=1_BmUTfSkTIUJaRebXm15ZjsNdtb7zlMog2wfY5YMv80
 [lab-speed]:https://drive.google.com/open?id=1mXEuWZ--9_65JIrJZO9-T5xZhdwmsibIbc1KeNa4V5c
 [handout-physics]:https://drive.google.com/open?id=1ekAVdxU986fJ_0yRqf2AlmhDI2v3ko8qI1G5mPMwTlw
 [special-topic-build-cars]:https://drive.google.com/open?id=1vCvx0-eyTp5oQa2yx7E7EkjFprZV6NzQ6RpSmohtYHA
 
-[#4]: #4-unit-4
+[#4]: #unit-4
 [prog-if-else]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/If-Else_Statements_Booleans_and_Functions.ipynb
 [function-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/Function_exercise_solution.py
 [topic-sonar]:https://drive.google.com/open?id=1uyJKhe9CgfpjLpQGA2EZujrwMQNsVryuMsh2GD6UBOM
 [lab-sonar]:https://drive.google.com/open?id=1HvHDdU4AfVteI0gUtIfeA4M-xpnN1oLx_zmFtxbWV3o
 
-[#5]: #5-unit-5
+[#5]: #unit-5
 [special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
 [topic-image-process]:https://drive.google.com/open?id=1b33_PcDyywF4rR78hla7sEypq1aaFeFvOS0P2PiIw2A
 [lab-traffic-lights]:https://drive.google.com/open?id=1XFm4_feQroB9_hjtfPBnkREEsW5F6dHig21HbWSUmSI
