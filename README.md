@@ -51,6 +51,14 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
      * Lab: Intro to the car module
 
+1. [Unit 2][#2]
+
+     * Programming: Strings, Lists and For Loops
+
+     * Lab: Figure-8 challenge
+
+
+
 
 -------------------------------------------------------------------------------
 ### 1. Unit 1
@@ -62,8 +70,19 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 **Programming:**
 - [Jupyter Notebooks, Calculations and Variables][prog-jupyter]
 
-**Lab**
+**Lab:**
 - [Intro to the car module][lab-car-module]
+
+
+-------------------------------------------------------------------------------
+### 1. Unit 1
+-------------------------
+
+**Programming:**
+- [Strings, Lists and For Loops][prog-lists]
+
+**Lab:**
+- [Figure-8 challenge][lab-figure-8]
 
 
 
@@ -74,15 +93,17 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
 
 [auto-auto-website]:http://autoauto.ai/
+
 [Curriculum Map]:https://drive.google.com/open?id=1Dc391Y7a1V8F2lJ_djFvBxEHz5SIBKBtCeY3Tbjs3uY
 
 [#1]: #1-unit-1
-
 [special-topic-ML]:https://drive.google.com/open?id=1dv5dTRQUxWvBD-vbRTdD1FmbqfHuqkGTwY-9hzGHrDA
 [prog-jupyter]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit1/Jupyter_Notebooks_Calculations_and_Variables.ipynb
 [lab-car-module]:https://drive.google.com/open?id=1jS7-b0zcyFZByTdcnJP2beycW_AOlDTgiFmrWBKqPDw
 
 [#2]: #2-unit-2
+[prog-lists]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit2/Strings_Lists_and_For_Loops.ipynb
+[lab-figure-8]:https://drive.google.com/open?id=1VBmFTen9YykbPZvzGFDrobyQUYgJUD-vfLjo5Km7GOk
 
 [#3]: #3-unit-3
 
