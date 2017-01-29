@@ -33,7 +33,7 @@ click the badge below:
 
 ## Instructors Guidelines
 
-If you are teaching AutoAuto curriculum got to [Curriculum Map]
+If you are teaching the AutoAuto curriculum got to [Curriculum Map]
 
 Table of Contents
 -----------------
@@ -71,8 +71,13 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
      * Topic: Sonar sensors
 
-     * Lab: Using sonar sensors to avoid obstacles (and crashes)
+     * Lab: Using sonar sensors to avoid obstacles (and crashes)  
 
+
+### __Intermediate Level__
+
+
+At the end of this level the car should be able to recognize pedestrians and self-drive in a track
 
 
 
