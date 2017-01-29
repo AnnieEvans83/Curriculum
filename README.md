@@ -87,6 +87,14 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
    * Lab: Car behaves depending on traffic light  colors
 
+[Unit 6][#6]
+
+   * Topic: Image Classification
+
+   * Lab: Car recognizes pedestrians and stop signs
+
+   * Programming: Scripts and Dictionaries
+
 -------------------------------------------------------------------------------
 ### __Beginner Level__
 ### Unit 1
@@ -148,6 +156,7 @@ At the end of this level the car should be able to recognize pedestrians and sel
 ### __Intermediate Level__
 ### Unit 5
 -------------------------
+
 **Special Topic:**
 - [Public policy (How will autonomous driving change our daily lives?)][special-topic-public-policy]
 
@@ -157,6 +166,21 @@ At the end of this level the car should be able to recognize pedestrians and sel
 **Lab:**
 - [Car acts depending on traffic light colors][lab-traffic-lights]
 
+-------------------------------------------------------------------------------
+### Unit 6
+-------------------------
+
+**Topic:**
+- [Image Classification][topic-image-classification]
+
+**Lab:**
+- [Car recognizes pedestrians and stop signs][lab-recognize-pedestrian]
+
+**Programming:**
+- [Scripts and Dictionaries][prog-scripts-dicts]
+
+- The solution for the exercise in this programming session can be found in
+ [dictionary exercise solution][dictionary-sol]
 
 
 
@@ -194,3 +218,9 @@ At the end of this level the car should be able to recognize pedestrians and sel
 [special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
 [topic-image-process]:https://drive.google.com/open?id=1b33_PcDyywF4rR78hla7sEypq1aaFeFvOS0P2PiIw2A
 [lab-traffic-lights]:https://drive.google.com/open?id=1XFm4_feQroB9_hjtfPBnkREEsW5F6dHig21HbWSUmSI
+
+[#6]: #unit-6
+[topic-image-classification]:https://drive.google.com/open?id=1qf9XhxJ4Xro5oR6Mb963oWVdmhi1svFhZXNPWPdzeRs
+[lab-recognize-pedestrian]:https://drive.google.com/open?id=1kCy9Xv59cgr7BdSHEFdpo6zD_RTLmYMOcFc4ropaIF0
+[prog-scripts-dicts]:
+[dictionary-sol]:
