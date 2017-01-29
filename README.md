@@ -61,6 +61,10 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
      * Topic: Car Physics
 
+     * Lab: Speed & RPMs
+
+     * Special Topic: How we built the cars
+
 
 
 
