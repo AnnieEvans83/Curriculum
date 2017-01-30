@@ -22,8 +22,8 @@ We are currently building curriculum and a web plataform for it.
 The AutoAuto curriculum is currently designed for Workshops, Hackathons,
 Afterschool programs or Summer schools. In the near feature we will add
 an extend version of the curriculum for regular schools and a "do it all
-yourself" version for kids with an AutoAuto car at home. This is a
-learning experience to build Python, Machine Learning and Autonomous
+yourself" version for kids with an AutoAuto car at home.  
+This is a learning experience to build Python, Machine Learning and Autonomous
 cars application skills. For the best use of it we recommend having
 our hand-held autonomous cars. In schools we suggest at most
 two students per AutoAuto car.
