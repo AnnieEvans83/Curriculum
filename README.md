@@ -198,6 +198,10 @@ More units coming up soon. Stay tuned!! :)
 
  ![](/images/team.png)
 
+ __AutoAuto Fleet__
+
+ ![](/images/fleet.jpg)
+
 
  __Contact__:`contact@autauto.ai`
 
