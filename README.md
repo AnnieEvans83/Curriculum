@@ -62,13 +62,13 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
    * Lab: Figure-8 challenge
 
+   * Special Topic: How we built the cars
+
 [Unit 3][#3]
 
    * Topic: Car Physics
 
    * Lab: Speed & RPMs
-
-   * Special Topic: How we built the cars
 
 [Unit 4][#4]
 
@@ -128,6 +128,9 @@ More units coming up soon. Stay tuned!! :)
 **Lab:**
 - [Figure-8 challenge][lab-figure-8]
 
+**Special Topic:**
+- [How we built the cars][special-topic-build-cars]
+
 -------------------------------------------------------------------------------
 ### Unit 3
 -------------------------
@@ -138,10 +141,6 @@ More units coming up soon. Stay tuned!! :)
 **Lab:**
 - [Speed & RPMs][lab-speed]
 - For this lab you will also need the [Lab handout][handout-physics].
-
-**Special Topic:**
-- [How we built the cars][special-topic-build-cars]
-
 
 -------------------------------------------------------------------------------
 ### Unit 4
@@ -158,6 +157,8 @@ More units coming up soon. Stay tuned!! :)
 
 **Lab:**
 - [Using sonar sensors to avoid obstacles (and crashes)][lab-sonar]
+
+- [elementary level][lab-elementary-sonar]
 
 
 -------------------------------------------------------------------------------
@@ -234,6 +235,7 @@ More units coming up soon. Stay tuned!! :)
 [function-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/Function_exercise_solution.py
 [topic-sonar]:https://drive.google.com/open?id=1uyJKhe9CgfpjLpQGA2EZujrwMQNsVryuMsh2GD6UBOM
 [lab-sonar]:https://drive.google.com/open?id=1HvHDdU4AfVteI0gUtIfeA4M-xpnN1oLx_zmFtxbWV3o
+[lab-elementary-sonar]:https://drive.google.com/open?id=1O3SV0Kxge3vdw_g4JpOct5ZaS2zkVAji3DxPp7XMjXQ
 
 [#5]: #unit-5
 [special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
