@@ -18,15 +18,14 @@ for data science and learning about how autonomous vehicles actually work.
 
 ### Curriculum
 
-We are currently building curriculum and a web plataform for it.
-The AutoAuto curriculum is currently designed for Workshops, Hackathons,
-Afterschool programs or Summer schools. In the near feature we will add
-an extended version for regular schools and a "do it all
-yourself" version for kids with an AutoAuto car at home.  
-This is a learning experience to build Python, Machine Learning and Autonomous
-cars application skills. For the best use of it we recommend having
-our hand-held autonomous cars. In schools we suggest at most
-two students per AutoAuto car.
+We are currently building a web-based platform for our
+curriculum so that students, teachers, and parents can conveniently access new projects as needed.
+
+Our curriculum is currently designed for workshops, hackathons, after-school programs, and day-camps. We will soon have a regular school curriculum and DIY
+lessons for students to work on personal projects at home with parents.
+
+The AutoAuto curriculum focuses on the underlying
+technologies and systems that would allow an autonomous vehicle to navigate its environment and drive itself. In addition to covering a wide-range of STEM topics - including mathematics, physics, circuitry, machine learning, artificial intelligence, and computer vision.
 
 ## Software Needed
 
@@ -46,7 +45,7 @@ Table of Contents
 ### __Beginner Level__
 
 
-At the end of this level the car should be able to avoid obstacles (and crashes)
+At the end of this level the car should be able recognize traffic light colors and act accordingly.
 
 [Unit 1][#1]  
 
@@ -58,11 +57,11 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
 [Unit 2][#2]
 
+   * Special Topic: How we built the cars  
+
    * Programming: Strings, Lists and For Loops
 
    * Lab: Figure-8 challenge
-
-   * Special Topic: How we built the cars
 
 [Unit 3][#3]
 
@@ -72,33 +71,33 @@ At the end of this level the car should be able to avoid obstacles (and crashes)
 
 [Unit 4][#4]
 
-   * Programming: If-Else Statements, Booleans and Functions
+   * Programming: If-Else Statements, While loops and Booleans  
 
-   * Topic: Sonar sensors
+   * Topic: Image Processing (Pixels and RBG values)
 
-   * Lab: Using sonar sensors to avoid obstacles (and crashes)  
+   * Lab: Car acts depending on traffic light colors
 
 
 ### __Intermediate Level__
 
 
-At the end of this level the car should be able to recognize pedestrians and self-drive in a track
+At the end of this level the car should be able to recognize pedestrians and self-drive in a track.
 
 [Unit 5][#5]
 
-   * Special Topic: Public policy (How will autonomous driving change our daily lives?)
+   * Programming: Functions and Dictionaries
 
-   * Topic: Image Processing (Pixels and RBG values)
+   * Topic: Sonar sensors
 
-   * Lab: Car behaves depending on traffic light  colors
+   * Lab: Using sonar sensors to avoid obstacles (and crashes)  
 
 [Unit 6][#6]
+
+   * Special Topic: Public policy (How will autonomous driving change our daily lives?)  
 
    * Topic: Image Classification
 
    * Lab: Car recognizes pedestrians and stop signs
-
-   * Programming: Scripts and Dictionaries
 
 
 More units coming up soon. Stay tuned!! :)
@@ -122,14 +121,15 @@ More units coming up soon. Stay tuned!! :)
 ### Unit 2
 -------------------------
 
+**Special Topic:**
+- [How we built the cars][special-topic-build-cars]  
+
 **Programming:**
 - [Strings, Lists and For Loops][prog-lists]
 
 **Lab:**
 - [Figure-8 challenge][lab-figure-8]
 
-**Special Topic:**
-- [How we built the cars][special-topic-build-cars]
 
 -------------------------------------------------------------------------------
 ### Unit 3
@@ -142,32 +142,13 @@ More units coming up soon. Stay tuned!! :)
 - [Speed & RPMs][lab-speed]
 - For this lab you will also need the [Lab handout][handout-physics].
 
+
 -------------------------------------------------------------------------------
 ### Unit 4
 -------------------------
 
 **Programming:**
-- [If-Else Statements, Booleans and Functions][prog-if-else]
-
-- The solution for the exercise in this programming session can be found in
- [function exercise solution][function-sol]
-
-**Topic:**
-- [Sonar Sensors][topic-sonar]
-
-**Lab:**
-- [Using sonar sensors to avoid obstacles (and crashes)][lab-sonar]
-
-- [elementary level][lab-elementary-sonar]
-
-
--------------------------------------------------------------------------------
-### __Intermediate Level__
-### Unit 5
--------------------------
-
-**Special Topic:**
-- [Public policy (How will autonomous driving change our daily lives?)][special-topic-public-policy]
+- [If-Else Statements, While loops and Booleans][prog-if-else]
 
 **Topic:**
 - [Image Processing (Pixels and RBG values)][topic-image-process]
@@ -176,20 +157,37 @@ More units coming up soon. Stay tuned!! :)
 - [Car acts depending on traffic light colors][lab-traffic-lights]
 
 -------------------------------------------------------------------------------
+### __Intermediate Level__
+### Unit 5
+-------------------------
+
+**Programming**
+- [Functions and Dictionaries][fns-dicts]
+
+The solution for the exercises in this programming session can be found in
+[function exercise solution][function-sol]
+and
+[dictionary exercise solution][dictionary-sol]
+
+**Topic:**
+- [Sonar Sensors][topic-sonar]
+
+**Lab:**
+- [Using sonar sensors to avoid obstacles (and crashes)][lab-sonar]
+
+- [elementary level][lab-elementary-sonar]
+-------------------------------------------------------------------------------
 ### Unit 6
 -------------------------
+
+**Special Topic:**
+- [Public policy (How will autonomous driving change our daily lives?)][special-topic-public-policy]
 
 **Topic:**
 - [Image Classification][topic-image-classification]
 
 **Lab:**
 - [Car recognizes pedestrians and stop signs][lab-recognize-pedestrian]
-
-**Programming:**
-- [Scripts and Dictionaries][prog-scripts-dicts]
-
-- The solution for the exercise in this programming session can be found in
- [dictionary exercise solution][dictionary-sol]
 
 
  -------------------------------------------------------------------------------
@@ -231,19 +229,21 @@ More units coming up soon. Stay tuned!! :)
 [special-topic-build-cars]:https://drive.google.com/open?id=1vCvx0-eyTp5oQa2yx7E7EkjFprZV6NzQ6RpSmohtYHA
 
 [#4]: #unit-4
-[prog-if-else]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/If-Else_Statements_Booleans_and_Functions.ipynb
-[function-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/Function_exercise_solution.py
+[prog-if-else]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit4/If-Else_Statements_While_Loops_and_Booleans.ipynb
+[topic-image-process]:https://drive.google.com/open?id=1b33_PcDyywF4rR78hla7sEypq1aaFeFvOS0P2PiIw2A
+[lab-traffic-lights]:https://drive.google.com/open?id=1XFm4_feQroB9_hjtfPBnkREEsW5F6dHig21HbWSUmSI
+
+
+[#5]: #unit-5
+[fns-dicts]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit5/Functions_and_Dictionaries.ipynb
+[function-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit5/Function_exercise_solution.py
+[dictionary-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit5/Dicionaries_exercise_solution.py
 [topic-sonar]:https://drive.google.com/open?id=1uyJKhe9CgfpjLpQGA2EZujrwMQNsVryuMsh2GD6UBOM
 [lab-sonar]:https://drive.google.com/open?id=1HvHDdU4AfVteI0gUtIfeA4M-xpnN1oLx_zmFtxbWV3o
 [lab-elementary-sonar]:https://drive.google.com/open?id=1O3SV0Kxge3vdw_g4JpOct5ZaS2zkVAji3DxPp7XMjXQ
 
-[#5]: #unit-5
-[special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
-[topic-image-process]:https://drive.google.com/open?id=1b33_PcDyywF4rR78hla7sEypq1aaFeFvOS0P2PiIw2A
-[lab-traffic-lights]:https://drive.google.com/open?id=1XFm4_feQroB9_hjtfPBnkREEsW5F6dHig21HbWSUmSI
 
 [#6]: #unit-6
+[special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
 [topic-image-classification]:https://drive.google.com/open?id=1qf9XhxJ4Xro5oR6Mb963oWVdmhi1svFhZXNPWPdzeRs
 [lab-recognize-pedestrian]:https://drive.google.com/open?id=1kCy9Xv59cgr7BdSHEFdpo6zD_RTLmYMOcFc4ropaIF0
-[prog-scripts-dicts]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit6/Scripts_Terminals_and_dictionaries.ipynb
-[dictionary-sol]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit6/Dicionaries_exercise_solution.py
