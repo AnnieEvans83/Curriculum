@@ -175,7 +175,9 @@ and
 **Lab:**
 - [Using sonar sensors to avoid obstacles (and crashes)][lab-sonar]  
 
-  [elementary level][lab-elementary-sonar]    
+- [elementary level][lab-elementary-sonar]   
+
+   
 -------------------------------------------------------------------------------
 ### Unit 6
 -------------------------
