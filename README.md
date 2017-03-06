@@ -55,6 +55,14 @@ At the end of this level the car should be able recognize traffic light colors a
 
    * Lab: Intro to the car module
 
+[Unit 1 - Part 2][#1.2]  
+
+Optional  
+
+   * Topic: Car Physics
+
+   * Lab: Speed and RPMs
+
 [Unit 2][#2]
 
    * Special Topic: How we built the cars  
@@ -86,33 +94,33 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
 [Unit 5][#5]
 
-  * Special Topic: Public policy (How will autonomous driving change our daily lives?)  
-
   * Topic: Image Classification
 
   * Lab: Car recognizes pedestrians and stop signs
 
 [Unit 6][#6]
 
+  * Special Topic: Public policy (How will autonomous driving change our daily lives?)  
+
+  * Programming: Scripts, Terminals and Dictionaries
+
+  * Lab: Using sonar and camera sensors to recognize pedestrians
+
+[Unit 7][#7]
+
   * Programming: Functions calling other functions
 
   * Topic: Neural Networks
 
-  * Lab: Car self-drives in a track
-
-[Unit 7][#7]
-
-  * Programming: Scripts, Terminals and Dictionaries
-
-  * Topic: Car Physics
-
-  * Lab: Speed and RPMs
+  * Lab: Car self-drives in a track - part 1
 
 [Unit 8][#8]
 
-  * Special Topic: How to pitch your project
+  * Programming / Data Science: Training and Testing your Data
 
-  * Lab: Using sonar and camera sensors to recognize pedestrians
+  * Lab: Car self-drives in a track - part 2
+
+  * Special Topic: How to pitch your project
 
 
 -------------------------------------------------------------------------------
@@ -129,6 +137,18 @@ At the end of this level the car should be able to recognize pedestrians and sel
 **Lab:**
 - [Intro to the car module][lab-car-module]
 
+-------------------------------------------------------------------------------
+### Unit 1 - Part 2
+-------------------------  
+
+Optional - This is perfect for when you have a second hr in the same day.
+
+**Topic:**
+- [Car Physics][topic-car-physics]
+
+**Lab:**
+- [Speed & RPMs][lab-speed]
+- For this lab you will also need the [Lab handout][handout-physics].
 
 -------------------------------------------------------------------------------
 ### Unit 2
@@ -218,6 +238,12 @@ More units coming up soon. Stay tuned!! :)
 [special-topic-ML]:https://drive.google.com/open?id=1dv5dTRQUxWvBD-vbRTdD1FmbqfHuqkGTwY-9hzGHrDA
 [prog-jupyter]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit1/Jupyter_Notebooks_Calculations_and_Variables.ipynb
 [lab-car-module]:https://drive.google.com/open?id=1jS7-b0zcyFZByTdcnJP2beycW_AOlDTgiFmrWBKqPDw
+
+[#1.2]:#unit-1-2
+[topic-car-physics]:https://drive.google.com/open?id=1_BmUTfSkTIUJaRebXm15ZjsNdtb7zlMog2wfY5YMv80
+[lab-speed]:https://drive.google.com/open?id=1mXEuWZ--9_65JIrJZO9-T5xZhdwmsibIbc1KeNa4V5c
+[handout-physics]:https://drive.google.com/open?id=1ekAVdxU986fJ_0yRqf2AlmhDI2v3ko8qI1G5mPMwTlw
+
 
 [#2]: #unit-2
 [special-topic-build-cars]:https://drive.google.com/open?id=1vCvx0-eyTp5oQa2yx7E7EkjFprZV6NzQ6RpSmohtYHA
