@@ -116,7 +116,7 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
 [Unit 8][#8]
 
-  * Programming / Data Science: Training and Testing your Data
+  * Programming / Data Science: Training and testing your model
 
   * Lab: Car self-drives in a track - part 2
 
