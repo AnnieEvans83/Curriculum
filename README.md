@@ -94,33 +94,34 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
 [Unit 5][#5]
 
+  * Programming: Scripts, Terminals and Dictionaries
+
   * Topic: Image Classification
 
   * Lab: Car recognizes pedestrians and stop signs
 
 [Unit 6][#6]
 
-  * Special Topic: Public policy (How will autonomous driving change our daily lives?)  
+  * Special Topic: Public policy (How will autonomous driving change our daily lives?)
 
-  * Programming: Scripts, Terminals and Dictionaries
-
-  * Lab: Using sonar and camera sensors to recognize pedestrians
+  * Lab: Using sonar and camera sensors combined to recognize pedestrians
 
 [Unit 7][#7]
 
-  * Programming: Functions calling other functions
-
   * Topic: Neural Networks
+
+  * Programming / Data Science: Training and testing your model
 
   * Lab: Car self-drives in a track - part 1
 
 [Unit 8][#8]
 
-  * Programming / Data Science: Training and testing your model
+  * Special Topic: How to pitch your project
+
+  * Programming: Creating modules in Python
 
   * Lab: Car self-drives in a track - part 2
 
-  * Special Topic: How to pitch your project
 
 
 -------------------------------------------------------------------------------
@@ -200,8 +201,8 @@ The solution for the exercise in this session can be found in
 ### Unit 5
 -------------------------
 
-**Special Topic:**
-- [Public policy (How will autonomous driving change our daily lives?)][special-topic-public-policy]
+**Programming**
+- [Scripts, Terminals and Dictionaries][scripts-dictionaries]
 
 **Topic:**
 - [Image Classification][topic-image-classification]
@@ -263,11 +264,13 @@ More units coming up soon. Stay tuned!! :)
 [lab-elementary-sonar]:https://drive.google.com/open?id=1O3SV0Kxge3vdw_g4JpOct5ZaS2zkVAji3DxPp7XMjXQ
 
 [#5]: #unit-5
+[scripts-dictionaries]:
 [special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
 [topic-image-classification]:https://drive.google.com/open?id=1qf9XhxJ4Xro5oR6Mb963oWVdmhi1svFhZXNPWPdzeRs
 [lab-recognize-pedestrian]:https://drive.google.com/open?id=1kCy9Xv59cgr7BdSHEFdpo6zD_RTLmYMOcFc4ropaIF0
 
 [#6]: #unit-6
+[special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
 
 [#7]: #unit-7
 
