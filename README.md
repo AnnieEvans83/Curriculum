@@ -108,7 +108,7 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
   * Lab: Speed and RPMs
 
- [Unit 8][#8]
+[Unit 8][#8]
 
   * Special Topic: How to pitch your project
 
