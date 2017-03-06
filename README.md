@@ -100,8 +100,20 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
   * Lab: Car self-drives in a track
 
+[Unit 7][#7]
 
-More units coming up soon. Stay tuned!! :)
+  * Programming: Scripts, Terminals and Dictionaries
+
+  * Topic: Car Physics
+
+  * Lab: Speed and RPMs
+
+ [Unit 8][#8]
+
+  * Special Topic: How to pitch your project
+
+  * Lab: Using sonar and camera sensors to recognize pedestrians
+
 
 -------------------------------------------------------------------------------
 ### __Beginner Level__
@@ -180,6 +192,7 @@ The solution for the exercise in this session can be found in
 
  -------------------------------------------------------------------------------
 
+More units coming up soon. Stay tuned!! :)
 
  __AutoAuto Team__   
 
@@ -227,3 +240,9 @@ The solution for the exercise in this session can be found in
 [special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
 [topic-image-classification]:https://drive.google.com/open?id=1qf9XhxJ4Xro5oR6Mb963oWVdmhi1svFhZXNPWPdzeRs
 [lab-recognize-pedestrian]:https://drive.google.com/open?id=1kCy9Xv59cgr7BdSHEFdpo6zD_RTLmYMOcFc4ropaIF0
+
+[#6]: #unit-6
+
+[#7]: #unit-7
+
+[#8]: #unit-8
