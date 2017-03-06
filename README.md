@@ -264,8 +264,7 @@ More units coming up soon. Stay tuned!! :)
 [lab-elementary-sonar]:https://drive.google.com/open?id=1O3SV0Kxge3vdw_g4JpOct5ZaS2zkVAji3DxPp7XMjXQ
 
 [#5]: #unit-5
-[scripts-dictionaries]:
-[special-topic-public-policy]:https://drive.google.com/open?id=1tGK8BpQvjOoAQNI3A0_6iHtANdsik1SG8vSVMq0A-P4
+[scripts-dictionaries]:https://github.com/AutoAutoAI/Curriculum/blob/master/Intermediate_Level/Unit5/Scripts_Terminals_and_Dictionaries.ipynb
 [topic-image-classification]:https://drive.google.com/open?id=1qf9XhxJ4Xro5oR6Mb963oWVdmhi1svFhZXNPWPdzeRs
 [lab-recognize-pedestrian]:https://drive.google.com/open?id=1kCy9Xv59cgr7BdSHEFdpo6zD_RTLmYMOcFc4ropaIF0
 
