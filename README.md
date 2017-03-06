@@ -55,7 +55,7 @@ At the end of this level the car should be able recognize traffic light colors a
 
    * Lab: Intro to the car module
 
-[Unit 1 - Part 2][#1.2]  
+[Unit 1 - Part 2][#12]  
 
 Optional  
 
@@ -239,7 +239,7 @@ More units coming up soon. Stay tuned!! :)
 [prog-jupyter]:https://github.com/AutoAutoAI/Curriculum/blob/master/Beginner_Level/Unit1/Jupyter_Notebooks_Calculations_and_Variables.ipynb
 [lab-car-module]:https://drive.google.com/open?id=1jS7-b0zcyFZByTdcnJP2beycW_AOlDTgiFmrWBKqPDw
 
-[#1.2]:#unit-1-2
+[#12]:#unit-12
 [topic-car-physics]:https://drive.google.com/open?id=1_BmUTfSkTIUJaRebXm15ZjsNdtb7zlMog2wfY5YMv80
 [lab-speed]:https://drive.google.com/open?id=1mXEuWZ--9_65JIrJZO9-T5xZhdwmsibIbc1KeNa4V5c
 [handout-physics]:https://drive.google.com/open?id=1ekAVdxU986fJ_0yRqf2AlmhDI2v3ko8qI1G5mPMwTlw
