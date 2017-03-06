@@ -118,8 +118,6 @@ At the end of this level the car should be able to recognize pedestrians and sel
 
   * Special Topic: How to pitch your project
 
-  * Programming: Creating modules in Python
-
   * Lab: Car self-drives in a track - part 2
 
 
