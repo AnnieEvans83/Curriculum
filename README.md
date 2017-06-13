@@ -29,16 +29,6 @@ technologies and systems that would allow an autonomous vehicle to navigate its 
 
 
 
-
- __AutoAuto Team__   
-
- ![](/images/team.png)
-
- __AutoAuto Fleet__
-
- ![](/images/fleet.jpg)
-
-
  __Contact__:`contact@autauto.ai`
 
 
