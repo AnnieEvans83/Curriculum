@@ -2,7 +2,6 @@
 Math Operations
 """
 
-
 # 1. Set sum_up equal to the sum of a small and a big number
 sum_up = 0
 
@@ -21,7 +20,7 @@ divide_me = 0
 print("The division is: ", divide_me)
 
 
-# 3. Set my_multiplication equal to the multiplication of one and a big number
+# 4. Set my_multiplication equal to the multiplication of one and a big number
 my_multiplication = 0
 
 print("The multiplication is: ", my_multiplication)
